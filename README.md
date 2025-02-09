@@ -1,5 +1,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marpe11&hide_progress=false)
-<h1 align="center">Oi eu sou o Marcus!</h1>
 <h3 align="center">Quality Assurance | Desenvolverdor back-end</h3>
 
 <h3 align="left">Connect with me:</h3>
