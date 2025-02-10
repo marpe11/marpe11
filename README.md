@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Java**
 - 🤝 I’m available for freelancing
 - 💬 Ask me about **Javascript, Python & Java**
-- 📫 How to reach me **SEU_EMAIL@provedor.com**
+- 📫 How to reach me **marcuspgk@gmail.com**
 
 ---
 
