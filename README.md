@@ -7,7 +7,7 @@
 </a>
 
 - 🔭 I’m currently working as **Quality Assurance at Weduka**
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** and **Ruby**
 - 🤝 I’m available for freelancing
 - 💬 Ask me about **Javascript, Python & Java**
 - 📫 How to reach me **marcuspgk@gmail.com**
@@ -23,9 +23,9 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/SEUUSERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/marpe11">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marpe11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marpe11&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </p>
 
