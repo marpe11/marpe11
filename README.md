@@ -64,5 +64,5 @@ Atuo na interseção entre a **Visão de Negócio (Produto)** e a **Execução T
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marpe11&theme=tokyonight&hide_border=true&background=0d1117" width="100%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=marpe11&theme=tokyonight&hide_border=true&background=0d1117" width="100%" alt="GitHub Streak" />
 </div>
