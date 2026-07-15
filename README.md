@@ -54,6 +54,29 @@ Atuo na interseção entre a **Visão de Negócio (Produto)** e a **Execução T
 
 ---
 
+### 🚀 Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚽ Brasfut</h3>
+      <p>Jogo de manager de futebol online: monte seu elenco, dispute partidas e evolua time e temporada. Construído com Next.js.</p>
+      <a href="https://brasfut.online" target="_blank">
+        <img src="https://img.shields.io/badge/Acessar_projeto-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Brasfut ao vivo" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 FlowStudy</h3>
+      <p>Organizador da rotina de estudos: cronograma personalizado, sessões de foco e acompanhamento de progresso.</p>
+      <a href="https://estudo-foco-cronograma.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/Acessar_projeto-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="FlowStudy ao vivo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
