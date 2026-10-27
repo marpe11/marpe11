@@ -9,10 +9,12 @@
 </div>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/marcusgonca1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:marcuspgk@gmail.com">
     <img src="https://img.shields.io/badge/Email-05122A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Florian%C3%B3polis%2C%20Brazil-05122A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Open_to_Senior_SDET_roles-0e75b6?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work" />
   <img src="https://komarev.com/ghpvc/?username=marpe11&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
@@ -90,16 +92,42 @@ A SDET who has never built a product tests blind. I don't.
   <tr>
     <td width="50%" valign="top">
       <h3>📋 Marpic</h3>
-      <p>Open-source desktop app (Windows / macOS / Linux): clipboard manager + screenshot toolkit, local-first on SQLite. <b>Electron + React + TypeScript.</b></p>
+      <p>Open-source desktop app for Windows / macOS / Linux: <b>clipboard manager + screenshot toolkit</b>, local-first on SQLite, with per-monitor capture overlay and full annotation editor.</p>
+      <p><b>Electron · React · TypeScript</b></p>
       <a href="https://github.com/marpe11/marpic">
         <img src="https://img.shields.io/badge/View_repository-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Marpic" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ zapzap</h3>
-      <p>Native WhatsApp desktop client written in <b>Rust</b> — because a good SDET isn't afraid of a systems language.</p>
-      <a href="https://github.com/marpe11/zapzap">
-        <img src="https://img.shields.io/badge/View_repository-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="zapzap" />
+      <h3>⚽ Brasfut</h3>
+      <p>Online football manager game, <b>live in production</b>: build your squad, play matches and evolve your team across seasons.</p>
+      <p><b>Next.js · TypeScript</b></p>
+      <a href="https://github.com/marpe11/brasfoot-online">
+        <img src="https://img.shields.io/badge/View_repository-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Brasfut repo" />
+      </a>
+      <a href="https://brasfoot-online.vercel.app">
+        <img src="https://img.shields.io/badge/Live_app-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Brasfut live" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧮 PJ Calculator</h3>
+      <p>Compensation simulator comparing PJ vs. CLT employment regimes — a real tool for the Brazilian contractor market, with a modern, responsive UI.</p>
+      <p><b>React · TypeScript · Vite · Tailwind · shadcn/ui</b></p>
+      <a href="https://github.com/marpe11/pjcalculator">
+        <img src="https://img.shields.io/badge/View_repository-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="PJ Calculator" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 FlowStudy</h3>
+      <p>Study-routine organizer, <b>live in production</b>: personalized schedules, focus sessions and progress tracking.</p>
+      <p><b>TypeScript · React</b></p>
+      <a href="https://github.com/marpe11/estudo-foco-cronograma">
+        <img src="https://img.shields.io/badge/View_repository-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="FlowStudy repo" />
+      </a>
+      <a href="https://estudo-foco-cronograma.vercel.app">
+        <img src="https://img.shields.io/badge/Live_app-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="FlowStudy live" />
       </a>
     </td>
   </tr>
@@ -124,7 +152,7 @@ A SDET who has never built a product tests blind. I don't.
 **Languages & Engineering:**
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,java,rust,nodejs,react,electron,docker,git,github,githubactions" alt="Engineering Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,java,rust,nodejs,react,nextjs,electron,docker,git,githubactions" alt="Engineering Stack" />
   </a>
 </div>
 
@@ -148,5 +176,5 @@ A SDET who has never built a product tests blind. I don't.
 <div align="center">
   <i>"Quality is not an act, it is a habit" — in my case, a pipeline.</i>
   <br/><br/>
-  📬 <b>marcuspgk@gmail.com</b> — open to Senior SDET / QA Lead roles and quality engineering consulting.
+  📬 <b><a href="mailto:marcuspgk@gmail.com">marcuspgk@gmail.com</a></b> · <b><a href="https://www.linkedin.com/in/marcusgonca1">LinkedIn</a></b> — open to Senior SDET / QA Lead roles and quality engineering consulting.
 </div>
